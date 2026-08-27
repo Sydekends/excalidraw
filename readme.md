@@ -1,11 +1,6 @@
-![](0.1.interval.excalidraw.svg)
-
-![](1.0.major.scale.excalidraw.svg)
-
-![](1.1.minorscale.excalidraw.svg)
-
-![](1.2.majorscale_third.excalidraw.svg)
-
-![](3.0.mindfuck.excalidraw.svg)
-
-![](3.2.pentatonic.excalidraw.svg)
+[<img src="0.1.interval.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.1.interval.excalidraw.svg)
+[<img src="1.0.major.scale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.0.major.scale.excalidraw.svg)
+[<img src="1.1.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.1.minorscale.excalidraw.svg)
+[<img src="1.2.majorscale_third.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.2.majorscale_third.excalidraw.svg)
+[<img src="3.0.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.mindfuck.excalidraw.svg)
+[<img src="3.2.pentatonic.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.2.pentatonic.excalidraw.svg)
