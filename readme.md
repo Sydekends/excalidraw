@@ -3,4 +3,4 @@
 [<img src="1.1.majorscale_third_fifth.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.1.majorscale_third_fifth.excalidraw.svg)
 [<img src="2.0.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.minorscale.excalidraw.svg)
 [<img src="3.0.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.mindfuck.excalidraw.svg)
-[<img src="3.2.pentatonic.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.2.pentatonic.excalidraw.svg)
+[<img src="3.2.caged.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.2.caged.excalidraw.svg)
