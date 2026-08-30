@@ -30,13 +30,29 @@ Les gammes sont des ensembles de notes qui constituent la base des mélodies et 
 
 Vous trouverez ci-dessous la gamme de do majeur, sur laquelle est indiqué le nombre de demi-tons entre chaque note. Ces intervalles définissent la structure de la gamme. Au piano, on obtient cette gamme en jouant uniquement les touches blanches : la plupart des notes sont séparées par deux demi-tons (un ton entier) et quelques-unes ne sont séparées que par un demi-ton.
 
-On peut aussi voir les gammes de Fa et de Re majeur. Elles utilisent le même schéma d’intervalles que la gamme de do majeur, mais commencent sur une note différente.
+[<img src="1.0.scales.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.0.scales.excalidraw.svg)
+
+On peut aussi voir plus bas les gammes de Fa et de Re majeur. Elles utilisent le même schéma d’intervalles que la gamme de do majeur, mais commencent sur une note différente.
 Pour conserver le même son (c’est-à-dire le même espacement entre les notes), elle comprennent des notes altérés : (Xb)(X#)
 
-[<img src="1.0.scales.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.0.scales.excalidraw.svg)
 [<img src="1.1.scales.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.1.scales.excalidraw.svg)
 
-### La tonalité
+[<img src="2.0.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.interval_on_guitar.excalidraw.svg)
+[<img src="2.1.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.interval_on_guitar.excalidraw.svg)
+[<img src="2.2.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.2.interval_on_guitar.excalidraw.svg)
+
+
+## Appliquer les intervales avec la guitare
+
+---
+
+
+
+[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
+[<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg)
+
+# Harmonie
+## La tonalité
 
 En musique, la tonalité définit le « point d’ancrage » tonal d’un morceau. Elle comporte deux éléments principaux : la tonique et la gamme.
 
@@ -51,22 +67,6 @@ Par exemple, une chanson en do majeur repose sur les notes
 À partir de ces notes, on obtient l’ensemble des accords couramment utilisés dans cette tonalité : Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
 
 **En general on prends des exemples en Do pour ne pas avoir trop de notes altéres.**
-## Appliquer les intervales avec la guitare
-
-[<img src="2.0.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.interval_on_guitar.excalidraw.svg)
-[<img src="2.1.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.interval_on_guitar.excalidraw.svg)
-[<img src="2.2.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.2.interval_on_guitar.excalidraw.svg)
-
----
-
-
-
-[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
-[<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg)
-
-
-
-# Harmonie
 
 ## Notation relative.
 
