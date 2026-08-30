@@ -10,16 +10,16 @@ Par exemple, l’intervalle entre le do et le mi s’appelle une tierce majeure.
 
 Les intervalles se mesurent en demi-tons — la plus petite distance entre deux notes sur un piano. Un demi-ton correspond à la distance entre une touche et la suivante (noire ou blanche). Deux demi-tons forment un ton.
 
-[<img src="0.interval.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.interval.excalidraw.svg)
+[<img src="0.0.interval.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.0.interval.excalidraw.svg)
 
-[<img src="0.notes.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.notes.excalidraw.svg)
+[<img src="0.1.notes.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.1.notes.excalidraw.svg)
 
 
 > Une guitare, c'est comme si plusieurs piano etait empilés, mais ils ne mettent pas en evidence les touches noire.
 
 Voici a quoi ressemble un piano sur la guitare
 
-[<img src="0.piano_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.piano_on_guitar.excalidraw.svg)
+[<img src="0.2.piano_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.2.piano_on_guitar.excalidraw.svg)
 
 ## Gammes.
 
@@ -33,8 +33,8 @@ Vous trouverez ci-dessous la gamme de do majeur, sur laquelle est indiqué le no
 On peut aussi voir les gammes de Fa et de Re majeur. Elles utilisent le même schéma d’intervalles que la gamme de do majeur, mais commencent sur une note différente.
 Pour conserver le même son (c’est-à-dire le même espacement entre les notes), elle comprennent des notes altérés : (Xb)(X#)
 
-[<img src="1.scales.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.scales.excalidraw.svg)
-[<img src="1.scales2.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.scales2.excalidraw.svg)
+[<img src="1.0.scales.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.0.scales.excalidraw.svg)
+[<img src="1.1.scales.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/1.1.scales.excalidraw.svg)
 
 ### La tonalité
 
@@ -53,9 +53,16 @@ Par exemple, une chanson en do majeur repose sur les notes
 **En general on prends des exemples en Do pour ne pas avoir trop de notes altéres.**
 ## Appliquer les intervales avec la guitare
 
-[<img src="2.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.interval_on_guitar.excalidraw.svg)
-[<img src="30.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/30.mindfuck.excalidraw.svg)
-[<img src="32.caged.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/32.caged.excalidraw.svg)
+[<img src="2.0.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.interval_on_guitar.excalidraw.svg)
+[<img src="2.1.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.interval_on_guitar.excalidraw.svg)
+[<img src="2.2.interval_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.2.interval_on_guitar.excalidraw.svg)
+
+---
+
+
+
+[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/x.mindfuck.excalidraw.svg)
+[<img src="X.caged.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/x.caged.excalidraw.svg)
 
 
 
@@ -68,4 +75,4 @@ Par exemple, une chanson en do majeur repose sur les notes
 
 ## Gamme relative
 
-[<img src="20.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/20.minorscale.excalidraw.svg)
+[<img src="x.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/x.minorscale.excalidraw.svg)
