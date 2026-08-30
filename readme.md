@@ -61,8 +61,8 @@ Par exemple, une chanson en do majeur repose sur les notes
 
 
 
-[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/x.mindfuck.excalidraw.svg)
-[<img src="X.caged.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/x.caged.excalidraw.svg)
+[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
+[<img src="X.caged.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.caged.excalidraw.svg)
 
 
 
@@ -75,4 +75,4 @@ Par exemple, une chanson en do majeur repose sur les notes
 
 ## Gamme relative
 
-[<img src="x.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/x.minorscale.excalidraw.svg)
+[<img src="X.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.minorscale.excalidraw.svg)
