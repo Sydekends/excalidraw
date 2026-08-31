@@ -46,9 +46,7 @@ Pour conserver le même son (c’est-à-dire le même espacement entre les notes
 
 ## Appliquer les intervalles avec la guitare
 
----
-
-
+Comment accorder sa guitare => [<img src="0.0.0.tuning.excalidraw.svg"](<https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.0.0.tuning.excalidraw.svg>)
 
 [<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
 [<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg)
