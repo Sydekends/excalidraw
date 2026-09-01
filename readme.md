@@ -43,14 +43,16 @@ Pour conserver le même son (c’est-à-dire le même espacement entre les notes
 ## Unison
 [<img src="2.0.0th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0th.excalidraw.svg)
 
+
+> A partir d'ici, toutes les intervalles de gammes majeures seront ecrits en chiffres romains I II III IV V VI VII
+
 ## Les quartes
+
 ### Sur la guitare
 [<img src="2.0.4th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.excalidraw.svg)
 ### Dans la gamme majeure
 [<img src="2.0.4th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.majorscale.excalidraw.svg)
 
-## L'unison
-[<img src="2.0.0th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0th.excalidraw.svg)
 ## Tuning
 Comment accorder sa guitare 
 [<img src="2.0.0.tuning.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0.tuning.excalidraw.svg)
@@ -97,7 +99,7 @@ ___
 ### L'accord de puissance / Power chord
 Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicité.
 
-[<img src="3.0.chords.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.chords.excalidraw.svg)
+[<img src="3.0.powerchords.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.powerchords.excalidraw.svg)
 
 > PowerChord = **(1 5 1)**
 > Pourquoi meme s'embeter avec le 7eme degree ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
@@ -121,7 +123,10 @@ Par exemple, une chanson en do majeur repose sur les notes
 
 **En général, on prend des exemples en Do pour ne pas avoir trop de notes altéres.**
 
+## Triades
 
+
+[<img src="3.1.triad.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.triad.excalidraw.svg)
 
 
 ## Notation relative.
