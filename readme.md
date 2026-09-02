@@ -1,6 +1,10 @@
 
 ![](assets/0.0.0.intro.excalidraw.svg)
 # Les fondamentaux :
+
+> C'est pas des regles, 
+> ici, on met juste des etiquettes sur des concepts pour les découvrir, les memoriser, pour communiquer avec d'autres instrumentistes.
+
 ## Intervalle
 
 Un intervalle est la différence de hauteur entre deux notes — en d’autres termes, la distance qui les sépare. Ce sont les intervalles qui donnent leur forme aux mélodies et leur sonorité aux accords.
@@ -40,73 +44,6 @@ Pour conserver le même son (c’est-à-dire le même espacement entre les notes
 
 # Harmonie
 
-## Unison
-[<img src="2.0.0th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0th.excalidraw.svg)
-
-
-> A partir d'ici, toutes les intervalles de gammes majeures seront ecrits en chiffres romains I II III IV V VI VII
-
-## Les quartes
-
-### Sur la guitare
-[<img src="2.0.4th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.excalidraw.svg)
-### Dans la gamme majeure
-[<img src="2.0.4th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.majorscale.excalidraw.svg)
-
-## Tuning
-Comment accorder sa guitare 
-[<img src="2.0.0.tuning.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0.tuning.excalidraw.svg)
-## L'octave
-[<img src="2.0.8th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.8th.excalidraw.svg)
-
-## Les tierces
-
-On appelle "tierce" 2 intervalles differents.
-On trouve la tierce majeure : 3 | C'est un intervalle de 2 ton. (4 demi-tons)
-et la     la tierce majeure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
-
-### Sur la guitare
-
-[<img src="2.1.3rd.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.3rd.excalidraw.svg)
-
-
-### Dans la gamme majeure
-
-[<img src="2.1.3rd.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.3rd.majorscale.excalidraw.svg)
-
-### Les quintes
-
-[<img src="2.1.5th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5th.excalidraw.svg)
-
-## Recap
-1
-2m
-2M
-3m
-3M
-P4
-P5
-6m
-6M
-7m
-7M
-8
-___
-
-
-## Les accords
-
-### L'accord de puissance / Power chord
-Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicité.
-
-[<img src="3.0.powerchords.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.powerchords.excalidraw.svg)
-
-> PowerChord = **(1 5 1)**
-> Pourquoi meme s'embeter avec le 7eme degree ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
-
-[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
-[<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg)
-
 ## La tonalité
 
 En musique, la tonalité définit le « point d’ancrage » tonal d’un morceau. Elle comporte deux éléments principaux : la tonique et la gamme.
@@ -119,9 +56,89 @@ Ensemble, la tonique et la gamme définissent les sept notes qui constituent les
 Par exemple, une chanson en do majeur repose sur les notes 
 `C` `D` `E` `F` `G` `A` `B`
 
-À partir de ces notes, on obtient l’ensemble des accords couramment utilisés dans cette tonalité : Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
+À partir de ces notes, on obtient l’ensemble des accords couramment utilisés dans cette tonalité :
+> On les note en chiffres romain, majuscule pour majeur, miniscule pour mineur.
+> Ce sont les degrees d'une gamme.
+ Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
+> **En général, on prend des exemples en Do pour ne pas avoir trop de notes altéres.**
 
-**En général, on prend des exemples en Do pour ne pas avoir trop de notes altéres.**
+## Les intervalles justes
+
+### Unison
+
+[<img src="2.0.0th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0th.excalidraw.svg)
+
+### L'octave
+Un octave c'est 6 tons  / 12 demi-tons
+
+[<img src="2.0.8th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.8th.excalidraw.svg)
+
+## Les autres intervalles
+
+### Le triton
+`La quarte augmentée` | `La quinte diminuée`
+Comme son nom l'indique Le triton est un intervalle de 3 tons (6 demi-tons) 
+il possede une sonoritée dissonante
+
+> ⚠️ Info incroyable pour se repérer sur le manche.
+>       C'est exactement la moitié d'un octave.
+>       Il est entouré de la quarte juste, et de la quinte juste
+>       Le triton du triton est la note de départ.
+
+[<img src="2.1.5thb.tritone.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5thb.tritone.excalidraw.svg)
+Dans la gamme majeure, le triton est present  
+**4#** du 4eme degree "**IV**"
+**5b** du 7eme degree "**vii**"
+
+### La quarte juste
+
+La guitare est un instrument accordé en quarte.
+> Sauf pour la corde de SI(B)
+
+
+[<img src="2.0.4th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.excalidraw.svg)
+#### Dans la gamme majeure
+[<img src="2.0.4th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.majorscale.excalidraw.svg)
+
+
+### Les tierces
+
+On appelle "tierce" 2 intervalles differents.
+On trouve la tierce majeure : 3 | C'est un intervalle de 2 ton. (4 demi-tons)
+et la     la tierce majeure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
+
+
+[<img src="2.1.3rd.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.3rd.excalidraw.svg)
+
+
+[<img src="2.1.3rd.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.3rd.majorscale.excalidraw.svg)
+
+### Les quintes
+
+[<img src="2.1.5th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5th.excalidraw.svg)
+
+## Tuning
+Comment accorder sa guitare 
+[<img src="2.0.0.tuning.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0.tuning.excalidraw.svg)
+
+
+
+## Les accords
+
+
+
+<!-- 
+### L'accord de puissance / Power chord
+Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicité.
+
+[<img src="3.0.powerchords.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.powerchords.excalidraw.svg)
+
+> PowerChord = **(1 5 1)**
+> Pourquoi meme s'embeter avec le 7eme degree ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
+
+[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
+
+
 
 ## Triades
 
@@ -132,9 +149,10 @@ Par exemple, une chanson en do majeur repose sur les notes
 ## Notation relative.
 
 À chaque note d’une gamme est attribué un degré de gamme, numéroté de 1 à 7. Ces degrés de gamme restent les mêmes quelle que soit la tonalité, ce qui nous permet de décrire des idées musicales à l’aide de la notation relative — un concept fondamental. Par exemple, le degré 1 de la gamme est toujours la note "de référence" de la tonalité, même si sa hauteur réelle varie d’une tonalité à l’autre.
-<!-- rouge pour le 1, orange pour le 2, jaune pour le 3, et ainsi de suite — afin que vous puissiez reconnaître instantanément leur rôle et leur fonction. -->
+<!-- rouge pour le 1, orange pour le 2, jaune pour le 3, et ainsi de suite — afin que vous puissiez reconnaître instantanément leur rôle et leur fonction. 
 
 ## Gamme relative
 
 [<img src="X.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.minorscale.excalidraw.svg)
 
+[<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg) -->
