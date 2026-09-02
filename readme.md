@@ -2,8 +2,8 @@
 ![](assets/0.0.0.intro.excalidraw.svg)
 # Les fondamentaux :
 
-> C'est pas des regles, 
-> ici, on met juste des etiquettes sur des concepts pour les découvrir, les memoriser, pour communiquer avec d'autres instrumentistes.
+> C'est pas des regles.
+> Ici, on met juste des etiquettes sur des concepts pour les découvrir, les memoriser, pour communiquer avec d'autres instrumentistes.
 
 ## Intervalle
 
@@ -19,13 +19,13 @@ Les intervalles se mesurent en demi-tons : la plus petite distance entre deux no
 [<img src="0.1.notes.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.1.notes.excalidraw.svg)
 
 
-> Une guitare, c'est comme si plusieurs piano etait empilés, mais les cordes ne mettent pas en evidence les touches noire.
+> Une guitare, c'est comme si plusieurs pianos etait empilés, mais les cordes ne mettent pas en evidence les touches noires.
 
-Voici à quoi ressemble un piano sur la guitare
+Voici comment poser les notes sur la guitare
 
 [<img src="0.2.piano_on_guitar.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.2.piano_on_guitar.excalidraw.svg)
 
-## Gammes.
+## Gammes
 
 Les gammes sont des ensembles de notes qui constituent la base des mélodies et des accords en musique. La plus connue est la gamme majeure : une série de sept notes qui suivent un schéma spécifique d’intervalles (écarts entre les notes). Ce schéma confère à la gamme majeure sa sonorité claire et familière, et est utilisé dans d’innombrables chansons populaires.
 
@@ -62,7 +62,7 @@ Par exemple, une chanson en do majeur repose sur les notes
  Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
 > **En général, on prend des exemples en Do pour ne pas avoir trop de notes altéres.**
 
-## Les intervalles justes
+## Les intervalles en details
 
 ### Unison
 
@@ -73,7 +73,6 @@ Un octave c'est 6 tons  / 12 demi-tons
 
 [<img src="2.0.8th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.8th.excalidraw.svg)
 
-## Les autres intervalles
 
 ### Le triton
 `La quarte augmentée` | `La quinte diminuée`
@@ -149,8 +148,6 @@ Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicit�
 
 > PowerChord = **(1 5 1)**
 > Pourquoi meme s'embeter avec le 7eme degree ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
-
-
 
 ## Triades
 
