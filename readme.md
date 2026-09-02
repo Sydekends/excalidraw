@@ -90,18 +90,32 @@ Dans la gamme majeure, le triton est present
 **4#** du 4eme degree "**IV**"
 **5b** du 7eme degree "**vii**"
 
-### La quarte juste
+### La quarte juste | Perfect Fourth
 
 La guitare est un instrument accordé en quarte.
 > Sauf pour la corde de SI(B)
 
 
 [<img src="2.0.4th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.excalidraw.svg)
+
 #### Dans la gamme majeure
+
 [<img src="2.0.4th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.majorscale.excalidraw.svg)
 
+> Dans la gamme majeure naturelle, le 4eme degree (IV) possede une quarte augmentée.
 
-### Les tierces
+### La quinte juste | Perfect Fifth
+
+[<img src="2.1.5th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5th.excalidraw.svg)
+
+#### Dans la gamme majeure
+[<img src="2.1.5th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5th.majorscale.excalidraw.svg)
+
+
+> Dans la gamme majeure naturelle, le 7eme degree (vii) possede une quinte diminuée.
+> On note donc ce degré vii° => pour "diminué"
+
+### Les tierces | Third
 
 On appelle "tierce" 2 intervalles differents.
 On trouve la tierce majeure : 3 | C'est un intervalle de 2 ton. (4 demi-tons)
@@ -113,21 +127,21 @@ et la     la tierce majeure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
 
 [<img src="2.1.3rd.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.3rd.majorscale.excalidraw.svg)
 
-### Les quintes
-
-[<img src="2.1.5th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5th.excalidraw.svg)
+> Dans la gamme majeure naturelle :
+>   - Les degrees I, IV et V sont majeurs
+>   - Les degrees ii, iii, vi et vii sont mineurs
 
 ## Tuning
 Comment accorder sa guitare 
 [<img src="2.0.0.tuning.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0.tuning.excalidraw.svg)
 
 
+## Comprendre le manche
+
+[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
 
 ## Les accords
 
-
-
-<!-- 
 ### L'accord de puissance / Power chord
 Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicité.
 
@@ -136,15 +150,16 @@ Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicit�
 > PowerChord = **(1 5 1)**
 > Pourquoi meme s'embeter avec le 7eme degree ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
 
-[<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
-
 
 
 ## Triades
 
+Major       : 1 3 5
+Minor       : 1 b3 5
+Diminished  : 1 b3 b5
 
 [<img src="3.1.triad.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.triad.excalidraw.svg)
-
+<!-- 
 
 ## Notation relative.
 
