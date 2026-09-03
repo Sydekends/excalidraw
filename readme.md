@@ -59,9 +59,11 @@ Par exemple, une chanson en do majeur repose sur les notes
 À chaque note d’une gamme est attribué un degré de gamme, numéroté de 1 à 7 en chiffre romain. Ces degrés de gamme restent les mêmes quelle que soit la tonalité, ce qui nous permet de décrire des idées musicales à l’aide de la notation relative — un concept fondamental. Par exemple, le degré 1 de la gamme est toujours la note "de référence" de la tonalité, même si sa hauteur réelle varie d’une tonalité à l’autre.
 
 À partir de ces notes, on les groupes pour creer les accords couramment utilisés dans cette tonalité :
+
 > On les note en chiffres romain, majuscule pour majeur, miniscule pour mineur.
 > Ce sont les degrees d'une gamme.
- Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
+
+Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
 > **En général, on prend des exemples en Do pour ne pas avoir trop de notes altéres.**
 
 ## Les intervalles en details
@@ -93,8 +95,10 @@ Dans la gamme majeure, le triton est present
 
 ### La quarte juste | Perfect Fourth
 
-La guitare est un instrument accordé en quarte.
+La guitare est un instrument accordé en quarte. E A D G
 > Sauf pour la corde de SI(B)
+
+> Elle est accordé d'une tierce majeure par rapport à la corde de SOL(G)
 
 
 [<img src="2.0.4th.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.excalidraw.svg)
