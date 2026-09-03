@@ -56,7 +56,9 @@ Ensemble, la tonique et la gamme définissent les sept notes qui constituent les
 Par exemple, une chanson en do majeur repose sur les notes 
 `C` `D` `E` `F` `G` `A` `B`
 
-À partir de ces notes, on obtient l’ensemble des accords couramment utilisés dans cette tonalité :
+À chaque note d’une gamme est attribué un degré de gamme, numéroté de 1 à 7 en chiffre romain. Ces degrés de gamme restent les mêmes quelle que soit la tonalité, ce qui nous permet de décrire des idées musicales à l’aide de la notation relative — un concept fondamental. Par exemple, le degré 1 de la gamme est toujours la note "de référence" de la tonalité, même si sa hauteur réelle varie d’une tonalité à l’autre.
+
+À partir de ces notes, on les groupes pour creer les accords couramment utilisés dans cette tonalité :
 > On les note en chiffres romain, majuscule pour majeur, miniscule pour mineur.
 > Ce sont les degrees d'une gamme.
  Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
@@ -154,13 +156,21 @@ Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicit�
 Major       : 1 3 5
 Minor       : 1 b3 5
 Diminished  : 1 b3 b5
+### Le principe
+[<img src="3.1.0.triad.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.0.triad.excalidraw.svg)
+### Former des arpeges
 
-[<img src="3.1.triad.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.triad.excalidraw.svg)
+[<img src="3.1.1.triad.arpegio.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.1.triad.arpegio.excalidraw.svg)
+> TODO Arpeges 1 b3 b5
+
+
+# Les fonctions des degrees de la gamme majeure.
+> TODO
 <!-- 
 
 ## Notation relative.
 
-À chaque note d’une gamme est attribué un degré de gamme, numéroté de 1 à 7. Ces degrés de gamme restent les mêmes quelle que soit la tonalité, ce qui nous permet de décrire des idées musicales à l’aide de la notation relative — un concept fondamental. Par exemple, le degré 1 de la gamme est toujours la note "de référence" de la tonalité, même si sa hauteur réelle varie d’une tonalité à l’autre.
+
 <!-- rouge pour le 1, orange pour le 2, jaune pour le 3, et ainsi de suite — afin que vous puissiez reconnaître instantanément leur rôle et leur fonction. 
 
 ## Gamme relative
