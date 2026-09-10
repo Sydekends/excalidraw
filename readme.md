@@ -182,3 +182,6 @@ Diminished  : 1 b3 b5
 [<img src="X.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.minorscale.excalidraw.svg)
 
 [<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg) -->
+
+
+<!-- Dans la gamme majeure, chaque note porte une quarte. Parmis elle, le 4eme degre porte une carte augmenté. -->
