@@ -1,5 +1,23 @@
-
 ![](assets/0.0.0.intro.excalidraw.svg)
+
+## Table of content
+- [Les fondamentaux](#les-fondamentaux)
+    - [Intervalle](#intervalle)
+    - [Gammes](#gammes)
+- [Harmonie](#harmonie)
+    - [La tonalité](#la-tonalité)
+    - [Les intervalles en details](#les-intervalles-en-details)
+        - [Unison](#unison)
+        - [Octave](#loctave)
+        - [Triton](#le-triton)
+        - [La quarte](#la-quarte-juste--perfect-fourth)
+        - [La quinte](#la-quinte-juste--perfect-fifth)
+        - [Les tierces](#les-tierces--third)
+    - [Accordage](#laccordage-est-en-quarte-sauf)
+    - [Les accords](#les-accords)
+        - [L'accord de puissance](#laccord-de-puissance--power-chord)
+        - [Triades](#triades)
+
 # Les fondamentaux :
 
 > C'est pas des regles.
@@ -58,12 +76,12 @@ Par exemple, une chanson en do majeur repose sur les notes
 
 À chaque note d’une gamme est attribué un degré de gamme, numéroté de 1 à 7 en chiffre romain. Ces degrés de gamme restent les mêmes quelle que soit la tonalité, ce qui nous permet de décrire des idées musicales à l’aide de la notation relative — un concept fondamental. Par exemple, le degré 1 de la gamme est toujours la note "de référence" de la tonalité, même si sa hauteur réelle varie d’une tonalité à l’autre.
 
-À partir de ces notes, on les groupes pour creer les accords couramment utilisés dans cette tonalité :
+À partir de ces notes, on les groupe pour créer les accords couramment utilisés dans cette tonalité :
 
 > On les note en chiffres romain, majuscule pour majeur, miniscule pour mineur.
-> Ce sont les degrees d'une gamme.
+> Ce sont les degrés d'une gamme.
 
-Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii˚). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
+Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii°). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
 > **En général, on prend des exemples en Do pour ne pas avoir trop de notes altéres.**
 
 ## Les intervalles en details
@@ -79,8 +97,9 @@ Un octave c'est 6 tons  / 12 demi-tons
 
 
 ### Le triton
-`La quarte augmentée` | `La quinte diminuée`
-Comme son nom l'indique Le triton est un intervalle de 3 tons (6 demi-tons) 
+> `La quarte augmentée` | `La quinte diminuée`
+
+Comme son nom l'indique, le triton est un intervalle de 3 tons (6 demi-tons) 
 il possede une sonoritée dissonante
 
 > ⚠️ Info incroyable pour se repérer sur le manche.
@@ -90,8 +109,8 @@ il possede une sonoritée dissonante
 
 [<img src="2.1.5thb.tritone.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5thb.tritone.excalidraw.svg)
 Dans la gamme majeure, le triton est present  
-**4#** du 4eme degree "**IV**"
-**5b** du 7eme degree "**vii**"
+**#4** du 4eme degré "**IV**"
+**b5** du 7eme degré "**vii**"
 
 ### La quarte juste | Perfect Fourth
 
@@ -107,7 +126,7 @@ La guitare est un instrument accordé en quarte. E A D G
 
 [<img src="2.0.4th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.majorscale.excalidraw.svg)
 
-> Dans la gamme majeure naturelle, le 4eme degree (IV) possede une quarte augmentée.
+> Dans la gamme majeure naturelle, le 4eme degré (IV) possede une quarte augmentée.
 
 ### La quinte juste | Perfect Fifth
 
@@ -117,7 +136,7 @@ La guitare est un instrument accordé en quarte. E A D G
 [<img src="2.1.5th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5th.majorscale.excalidraw.svg)
 
 
-> Dans la gamme majeure naturelle, le 7eme degree (vii) possede une quinte diminuée.
+> Dans la gamme majeure naturelle, le 7eme degré (vii) possede une quinte diminuée.
 > On note donc ce degré vii° => pour "diminué"
 
 ### Les tierces | Third
@@ -133,15 +152,19 @@ et la     la tierce mineure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
 [<img src="2.1.3rd.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.3rd.majorscale.excalidraw.svg)
 
 > Dans la gamme majeure naturelle :
->   - Les degrees I, IV et V sont majeurs
->   - Les degrees ii, iii, vi et vii sont mineurs
+>   - Les degrés I, IV et V sont majeurs
+>   - Les degrés ii, iii, vi et vii sont mineurs
 
-## Tuning
-Comment accorder sa guitare 
+## L'accordage de la guitare 
+
+### Comment accorder sa guitare 
 [<img src="2.0.0.tuning.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.0.tuning.excalidraw.svg)
 
+### L'accordage est en quarte sauf 
 
-## Comprendre le manche
+> Entre la corde de Sol(G) et Si(B) => C'est une **tierce majeure** *= (Une quarte juste moins un demi ton)*
+
+La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart pour que les accords majeurs/mineurs standards tombent sous les doigts pour faciliter le travail de la main gauche
 
 [<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
 
@@ -153,22 +176,22 @@ Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicit�
 [<img src="3.0.powerchords.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.powerchords.excalidraw.svg)
 
 > PowerChord = **(1 5 1)**
-> Pourquoi meme s'embeter avec le 7eme degree ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
+> Pourquoi meme s'embêter avec le 7eme degré ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
 
-## Triades
+### Triades
 
 Major       : 1 3 5
 Minor       : 1 b3 5
 Diminished  : 1 b3 b5
-### Le principe
+#### Le principe
 [<img src="3.1.0.triad.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.0.triad.excalidraw.svg)
-### Former des arpeges
+#### Former des arpèges
 
 [<img src="3.1.1.triad.arpegio.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.1.triad.arpegio.excalidraw.svg)
 > TODO Arpeges 1 b3 b5
 
 
-# Les fonctions des degrees de la gamme majeure.
+# Les fonctions des degrés de la gamme majeure.
 > TODO
 <!-- 
 
@@ -184,4 +207,4 @@ Diminished  : 1 b3 b5
 [<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg) -->
 
 
-<!-- Dans la gamme majeure, chaque note porte une quarte. Parmis elle, le 4eme degre porte une carte augmenté. -->
+<!-- Dans la gamme majeure, chaque note porte une quarte. Parmis elle, le 4eme degré porte une carte augmenté. -->
