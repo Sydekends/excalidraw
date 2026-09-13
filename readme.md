@@ -168,13 +168,15 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 
 [<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
 
+![](X.mindfuck.excalidraw.svg)
+
 ## Les accords
 
 ### L'accord de puissance / Power chord
 Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicité.
 
 [<img src="3.0.powerchords.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.powerchords.excalidraw.svg)
-![](3.0.powerchords.excalidraw.svg)
+
 > PowerChord = **(1 5 1)**
 > Pourquoi meme s'embêter avec le 7eme degré ? C'est si puissant qu'on peut faire entendre une quinte, pas de probleme. 
 
