@@ -124,7 +124,7 @@ La guitare est un instrument accordé en quarte. E A D G
 
 On appelle "tierce" 2 intervalles differents.
 On trouve la tierce majeure : 3 | C'est un intervalle de 2 ton. (4 demi-tons)
-et la     la tierce majeure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
+et la     la tierce mineure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
 
 
 [<img src="2.1.3rd.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.3rd.excalidraw.svg)
