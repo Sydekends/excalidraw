@@ -182,9 +182,10 @@ Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicit�
 
 ### Triades
 
-Major       : 1 3 5
-Minor       : 1 b3 5
-Diminished  : 1 b3 b5
+- Major       : 1 3 5
+- Minor       : 1 b3 5
+    - Diminished  : 1 b3 b5
+
 #### Le principe
 [<img src="3.1.0.triad.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.0.triad.excalidraw.svg)
 #### Former des arpèges
@@ -193,10 +194,3 @@ Diminished  : 1 b3 b5
 
 # Les fonctions des degrés de la gamme majeure.
 > TODO
-<!--
-## Notation relative.
-rouge pour le 1, orange pour le 2, jaune pour le 3, et ainsi de suite — afin que vous puissiez reconnaître instantanément leur rôle et leur fonction. 
-## Gamme relative
-[<img src="X.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.minorscale.excalidraw.svg)
-[<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg)
-<!-- Dans la gamme majeure, chaque note porte une quarte. Parmis elle, le 4eme degré porte une carte augmenté. -->
