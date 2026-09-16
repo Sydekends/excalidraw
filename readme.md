@@ -190,23 +190,13 @@ Diminished  : 1 b3 b5
 #### Former des arpèges
 
 [<img src="3.1.1.triad.arpegio.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.1.triad.arpegio.excalidraw.svg)
-> TODO Arpeges 1 b3 b5
-
 
 # Les fonctions des degrés de la gamme majeure.
 > TODO
-<!-- 
-
+<!--
 ## Notation relative.
-
-
-<!-- rouge pour le 1, orange pour le 2, jaune pour le 3, et ainsi de suite — afin que vous puissiez reconnaître instantanément leur rôle et leur fonction. 
-
+rouge pour le 1, orange pour le 2, jaune pour le 3, et ainsi de suite — afin que vous puissiez reconnaître instantanément leur rôle et leur fonction. 
 ## Gamme relative
-
 [<img src="X.minorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.minorscale.excalidraw.svg)
-
-[<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg) -->
-
-
+[<img src="X.CAGED.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.CAGED.excalidraw.svg)
 <!-- Dans la gamme majeure, chaque note porte une quarte. Parmis elle, le 4eme degré porte une carte augmenté. -->
