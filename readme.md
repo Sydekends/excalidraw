@@ -1,24 +1,30 @@
 ![](assets/0.0.0.intro.excalidraw.svg)
 
-<!-- ## Table of content
-- [Les fondamentaux](#les-fondamentaux)
-    - [Intervalle](#intervalle)
-    - [Gammes](#gammes)
-- [Harmonie](#harmonie)
-    - [La tonalité](#la-tonalité)
-    - [Les intervalles en details](#les-intervalles-en-details)
-        - [Unison](#unison)
-        - [Octave](#loctave)
-        - [Triton](#le-triton)
-        - [La quarte](#la-quarte-juste--perfect-fourth)
-        - [La quinte](#la-quinte-juste--perfect-fifth)
-        - [Les tierces](#les-tierces--third)
-    - [Accordage](#laccordage-est-en-quarte-sauf)
-    - [Les accords](#les-accords)
-        - [L'accord de puissance](#laccord-de-puissance--power-chord)
-        - [Triades](#triades) -->
-
 # Les fondamentaux :
 
-> C'est pas des regles.
-> Ici, on met juste des etiquettes sur des concepts pour les découvrir, les memoriser, pour communiquer avec d'autres instrumentistes.
+## [Intervalle](readme_interval.md)
+- [Intervalle](readme_interval.md)
+- [Gammes](readme_interval.md#gammes)
+    - [intervalle en detail](readme_interval.md#intervalle-en-detail)
+    - [Unison](readme_interval.md#unison)
+    - [L'octave](readme_interval.md#loctave)
+    - [Le triton](readme_interval.md#le-triton)
+    - [La quarte juste | Perfect Fourth](readme_interval.md#la-quarte-juste--perfect-fourth)
+    - [La quinte juste | Perfect Fifth](readme_interval.md#la-quinte-juste--perfect-fifth)
+    - [Les tierces | Third](readme_interval.md#les-tierces--third)
+- [L'accordage de la guitare](readme_interval.md#laccordage-de-la-guitare)
+    - [Comment accorder sa guitare](readme_interval.md#comment-accorder-sa-guitare)
+    - [L'accordage est en quarte sauf](readme_interval.md#laccordage-est-en-quarte-sauf)
+- [La Gamme Majeure](readme_interval.md#la-gamme-majeure)
+    - [Tierces](readme_interval.md#tierces)
+    - [La quarte](readme_interval.md#la-quarte)
+    - [la quinte](readme_interval.md#la-quinte)
+    - [Triton](readme_interval.md#triton)
+
+## [Tonalité](readme_tonality.md)
+- [Les degrés](readme_tonality.md#les-degrés)
+- [Les accords](readme_tonality.md#les-accords)
+    - [L'accord de puissance / Power chord](readme_tonality.md#laccord-de-puissance--power-chord)
+    - [Triades](readme_tonality.md#triades)
+    - [Former des arpèges](readme_tonality.md#former-des-arpèges)
+- [Les fonctions des degrés de la gamme majeure.](readme_tonality.md#les-fonctions-des-degrés-de-la-gamme-majeure)
