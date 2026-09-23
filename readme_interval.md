@@ -11,7 +11,7 @@ Les intervalles se mesurent en demi-tons : la plus petite distance entre deux no
 
 [<img src="0.1.notes.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/0.1.notes.excalidraw.svg)
 
-> Une guitare, c'est comme si plusieurs pianos etait empilés, mais les cordes ne mettent pas en evidence les touches noires.
+> Une guitare, c'est comme si plusieurs pianos etaient empilés, mais les cordes ne mettent pas en evidence les touches noires.
 
 Voici comment poser les notes sur la guitare
 
@@ -36,7 +36,7 @@ Pour conserver le même son (c’est-à-dire le même espacement entre les notes
 
 Si ya un truc a retenir c'est le patern : TON,TON,demi-ton,TON,TON,TON,demi-ton
 
-## Intervale en detail
+## intervalle en detail
 
 ### Unison
 
@@ -97,7 +97,7 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 ## La Gamme Majeure
 
 Pour commencer, imposont nous l'harmonie de la gamme majeure.
-Trouver chaque intervale de chaque degrés de la gamme majeure.
+Trouver chaque intervalle de chaque degrés de la gamme majeure.
 
 ### Tierces
 
