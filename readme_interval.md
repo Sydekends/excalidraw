@@ -36,7 +36,7 @@ Pour conserver le même son (c’est-à-dire le même espacement entre les notes
 
 Si ya un truc a retenir c'est le patern : TON,TON,demi-ton,TON,TON,TON,demi-ton
 
-## intervalle en detail
+## Intervalle en detail
 
 ### Unison
 
@@ -109,13 +109,14 @@ Trouver chaque intervalle de chaque degrés de la gamme majeure.
 >   - Les degrés I, IV et V sont majeurs
 >   - Les degrés ii, iii, vi et vii sont mineurs
 
+> Voir les [exos](exercices/2/2.1.tierces.excalidraw.svg)
 ### La quarte
 
 [<img src="2.0.4th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.0.4th.majorscale.excalidraw.svg)
 
 > On peux voir avec ce schema que dans la gamme majeure naturelle, le 4eme degré (IV) possede une quarte augmentée.
 
-### la quinte
+### La quinte
 
 [<img src="2.1.5th.majorscale.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/2.1.5th.majorscale.excalidraw.svg)
 
