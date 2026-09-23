@@ -94,6 +94,8 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 
 [<img src="X.mindfuck.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/X.mindfuck.excalidraw.svg)
 
+> Voir les [exos](exercices/1/)
+
 ## La Gamme Majeure
 
 Pour commencer, imposont nous l'harmonie de la gamme majeure.
